@@ -1,0 +1,10 @@
+.texts{
+    width: 50%;
+}
+#store{
+    border: 1px solid black;
+    border-spacing: 25px;
+}
+.btn-submit{
+    background: rgb(13, 125, 153);
+}
